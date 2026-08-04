@@ -33,148 +33,48 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 <h2>📌 Featured Projects</h2>
 
 <table>
-  <tr>
-    <!-- Voice Phishing Pattern Analysis -->
-    <td width="33%" valign="top">
-      <h3 align="center">📞 Voice Phishing Pattern Analysis</h3>
-
-      <p align="center">
-        <img
-          src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square"
-          alt="Completed"
-        />
-      </p>
-
-      <p>
-        Analyzed unstructured text data to identify frequently appearing
-        keywords and patterns in voice phishing-related content.
-      </p>
-
-      <p>
-        <b>Key Analysis</b><br/>
-        Web Crawling · Korean Text Preprocessing · Keyword Analysis ·
-        Sentiment Analysis
-      </p>
-
-      <p>
-        <b>Outcome</b><br/>
-        Transformed noisy YouTube and script data into analyzable datasets
-        and visualized recurring voice phishing-related terms.
-      </p>
-
-      <p>
-        <b>Tools</b><br/>
-        Python · Pandas · KoNLPy · WordCloud · VaderSentiment
-      </p>
-
-      <p align="center">
-        <a href="https://github.com/lucy539090/voicefishing_analysis">
-          <img
-            src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white"
-            alt="View Voice Phishing Repository"
-          />
-        </a>
-      </p>
-    </td>
-
-    <!-- Pothole Risk Factor Analysis -->
-    <td width="33%" valign="top">
-      <h3 align="center">🛣️ Pothole Risk Factor Analysis</h3>
-
-      <p align="center">
-        <img
-          src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square"
-          alt="Completed"
-        />
-      </p>
-
-      <p>
-        Analyzed key factors associated with pothole occurrence using
-        large-scale spatio-temporal and public data.
-      </p>
-
-      <p>
-        <b>Key Analysis</b><br/>
-        Data Integration · Feature Engineering · Tree-Based Modeling ·
-        Feature Importance
-      </p>
-
-      <p>
-        <b>Outcome</b><br/>
-        Identified traffic volume and weather-related variables as meaningful
-        risk factors for preventive road maintenance.
-      </p>
-
-      <p>
-        <b>Tools</b><br/>
-        Python · XGBoost · LightGBM · CatBoost · Spatial Data
-      </p>
-
-      <p align="center">
-        <a href="https://github.com/Moon-ye-rin/Capstone_Design_2">
-          <img
-            src="https://img.shields.io/badge/VIEW%20TEAM%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white"
-            alt="View Pothole Team Repository"
-          />
-        </a>
-      </p>
-    </td>
-
-    <!-- Steam Review Analysis -->
-    <td width="33%" valign="top">
-      <h3 align="center">🎮 Steam Review Analysis</h3>
-
-      <p align="center">
-        <img
-          src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square"
-          alt="In Progress"
-        />
-      </p>
-
-      <p>
-        Analyzing Steam user reviews to understand how player experiences
-        and concerns differ across indie games and language groups.
-      </p>
-
-      <p>
-        <b>Planned Analysis</b><br/>
-        Text Preprocessing · Sentiment Analysis · Keyword Analysis ·
-        Multilingual NLP
-      </p>
-
-      <p>
-        <b>Goal</b><br/>
-        Translate user reviews into clear product improvement priorities
-        and compare user experiences across games and languages.
-      </p>
-
-      <p>
-        <b>Tools</b><br/>
-        Python · NLP · Machine Learning · Tableau · Data Visualization
-      </p>
-
-      <p align="center">
-        <img
-          src="https://img.shields.io/badge/PROJECT%20IN%20PROGRESS-F59E0B?style=flat-square"
-          alt="Project In Progress"
-        />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+<h3 align="center">📞 Voice Phishing<br>Pattern Analysis</h3>
+<p align="center"><img src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square" alt="Completed"></p>
+<p>Analyzed unstructured text data to identify frequently appearing keywords and patterns in voice phishing-related content.</p>
+<p><b>Key Analysis</b><br>Web Crawling · Korean Text Preprocessing · Keyword Analysis · Sentiment Analysis</p>
+<p><b>Outcome</b><br>Transformed noisy YouTube and script data into analyzable datasets and visualized recurring voice phishing-related terms.</p>
+<p><b>Tools</b><br>Python · Pandas · KoNLPy · WordCloud · VaderSentiment</p>
+<p align="center"><a href="https://github.com/lucy539090/voicefishing_analysis"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="View Voice Phishing Repository"></a></p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center">🛣️ Pothole Risk<br>Factor Analysis</h3>
+<p align="center"><img src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square" alt="Completed"></p>
+<p>Analyzed key factors associated with pothole occurrence using large-scale spatio-temporal and public data.</p>
+<p><b>Key Analysis</b><br>Data Integration · Feature Engineering · Tree-Based Modeling · Feature Importance</p>
+<p><b>Outcome</b><br>Identified traffic volume and weather-related variables as meaningful risk factors for preventive road maintenance.</p>
+<p><b>Tools</b><br>Python · XGBoost · LightGBM · CatBoost · Spatial Data</p>
+<p align="center"><a href="https://github.com/Moon-ye-rin/Capstone_Design_2"><img src="https://img.shields.io/badge/VIEW%20TEAM%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="View Pothole Team Repository"></a></p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center">🎮 Steam Review<br>Analysis</h3>
+<p align="center"><img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square" alt="In Progress"></p>
+<p>Analyzing Steam user reviews to understand how player experiences and concerns differ across indie games and language groups.</p>
+<p><b>Planned Analysis</b><br>Text Preprocessing · Sentiment Analysis · Keyword Analysis · Multilingual NLP</p>
+<p><b>Goal</b><br>Translate user reviews into product improvement priorities and compare user experiences across games and languages.</p>
+<p><b>Tools</b><br>Python · NLP · Machine Learning · Tableau · Data Visualization</p>
+<p align="center"><img src="https://img.shields.io/badge/PROJECT%20IN%20PROGRESS-F59E0B?style=flat-square" alt="Project In Progress"></p>
+</td>
+</tr>
 </table>
 
-<br/>
+<br>
 
 <div align="center">
-  <a href="https://github.com/lucy539090/portfolio">
-    <img
-      src="https://img.shields.io/badge/VIEW%20DETAILED%20PORTFOLIO-1E3A8A?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Detailed Portfolio"
-    />
-  </a>
+<a href="https://github.com/lucy539090/portfolio">
+<img src="https://img.shields.io/badge/VIEW%20DETAILED%20PORTFOLIO-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="View Detailed Portfolio">
+</a>
 </div>
 
-<hr/>
+<br>
+
+<hr>
 
 ---
 
