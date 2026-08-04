@@ -48,7 +48,7 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 <p><b>Key Analysis</b><br>Web Crawling · Korean Text Preprocessing · Keyword Analysis · Sentiment Analysis</p>
 <p><b>Outcome</b><br>Transformed noisy YouTube and script data into analyzable datasets and visualized recurring voice phishing-related terms.</p>
 <p><b>Tools</b><br>Python · Pandas · KoNLPy · WordCloud · VaderSentiment</p>
-<p align="center"><a href="https://github.com/lucy539090/voicefishing_analysis"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="View Voice Phishing Repository"></a></p>
+<p align="center"><a href="https://github.com/lucy539090/voicefishing_analysis"><img src="https://img.shields.io/badge/VIEW%20TEAM%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="View Voice Phishing Repository"></a></p>
 </td>
 <td width="33%" valign="top">
 <h3 align="center">Steam Review<br>Analysis</h3>
