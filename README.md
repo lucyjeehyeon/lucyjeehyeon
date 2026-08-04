@@ -30,71 +30,134 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 
 ---
 
-## 📌 Featured Projects
+<h2>📌 Featured Projects</h2>
 
 <table>
   <tr>
+    <!-- Voice Phishing Pattern Analysis -->
     <td width="33%" valign="top">
-      <h3 align="center">🏢 Shared Office Trial Conversion</h3>
+      <h3 align="center">📞 Voice Phishing Pattern Analysis</h3>
+
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square"/>
+        <img
+          src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square"
+          alt="Completed"
+        />
       </p>
+
       <p>
-        Diagnosed where free-trial users dropped off between registration, visits, and payment.
+        Analyzed unstructured text data to identify frequently appearing
+        keywords and patterns in voice phishing-related content.
       </p>
+
       <p>
         <b>Key Analysis</b><br/>
-        Funnel Analysis · Behavioral Segmentation · Landmark Modeling · Branch Analysis
+        Web Crawling · Korean Text Preprocessing · Keyword Analysis ·
+        Sentiment Analysis
       </p>
+
       <p>
         <b>Outcome</b><br/>
-        Proposed a D1 revisit intervention strategy and branch-specific action portfolios.
+        Transformed noisy YouTube and script data into analyzable datasets
+        and visualized recurring voice phishing-related terms.
       </p>
+
       <p>
         <b>Tools</b><br/>
-        Python · Statistical Testing · Machine Learning · Data Visualization
+        Python · Pandas · KoNLPy · WordCloud · VaderSentiment
+      </p>
+
+      <p align="center">
+        <a href="https://github.com/lucy539090/voicefishing_analysis">
+          <img
+            src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white"
+            alt="View Voice Phishing Repository"
+          />
+        </a>
       </p>
     </td>
+
+    <!-- Pothole Risk Factor Analysis -->
     <td width="33%" valign="top">
-      <h3 align="center">💳 Subscription Conversion & Retention</h3>
+      <h3 align="center">🛣️ Pothole Risk Factor Analysis</h3>
+
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square"/>
+        <img
+          src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square"
+          alt="Completed"
+        />
       </p>
+
       <p>
-        Analyzed user behavior from initial signup and first payment to recurring subscription.
+        Analyzed key factors associated with pothole occurrence using
+        large-scale spatio-temporal and public data.
       </p>
+
       <p>
         <b>Key Analysis</b><br/>
-        Funnel Analysis · Cohort Analysis · Retention Analysis · User Behavior Analysis
+        Data Integration · Feature Engineering · Tree-Based Modeling ·
+        Feature Importance
       </p>
+
       <p>
         <b>Outcome</b><br/>
-        Identified conversion and renewal bottlenecks and translated findings into retention priorities.
+        Identified traffic volume and weather-related variables as meaningful
+        risk factors for preventive road maintenance.
       </p>
+
       <p>
         <b>Tools</b><br/>
-        Python · SQL · Tableau · Statistical Analysis
+        Python · XGBoost · LightGBM · CatBoost · Spatial Data
+      </p>
+
+      <p align="center">
+        <a href="https://github.com/Moon-ye-rin/Capstone_Design_2">
+          <img
+            src="https://img.shields.io/badge/VIEW%20TEAM%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white"
+            alt="View Pothole Team Repository"
+          />
+        </a>
       </p>
     </td>
+
+    <!-- Steam Review Analysis -->
     <td width="33%" valign="top">
-      <h3 align="center">🎮 Steam Review NLP Analysis</h3>
+      <h3 align="center">🎮 Steam Review Analysis</h3>
+
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square"/>
+        <img
+          src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square"
+          alt="In Progress"
+        />
       </p>
+
       <p>
-        Exploring how player experiences and concerns differ across indie games and language groups.
+        Analyzing Steam user reviews to understand how player experiences
+        and concerns differ across indie games and language groups.
       </p>
+
       <p>
-        <b>Key Analysis</b><br/>
-        Text Preprocessing · Sentiment Analysis · Keyword Analysis · Multilingual NLP
+        <b>Planned Analysis</b><br/>
+        Text Preprocessing · Sentiment Analysis · Keyword Analysis ·
+        Multilingual NLP
       </p>
+
       <p>
         <b>Goal</b><br/>
-        Translate user reviews into product improvement priorities and visual insights.
+        Translate user reviews into clear product improvement priorities
+        and compare user experiences across games and languages.
       </p>
+
       <p>
         <b>Tools</b><br/>
-        Python · NLP · Tableau · Data Visualization
+        Python · NLP · Machine Learning · Tableau · Data Visualization
+      </p>
+
+      <p align="center">
+        <img
+          src="https://img.shields.io/badge/PROJECT%20IN%20PROGRESS-F59E0B?style=flat-square"
+          alt="Project In Progress"
+        />
       </p>
     </td>
   </tr>
@@ -103,33 +166,36 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 <br/>
 
 <div align="center">
-
-<a href="https://github.com/lucy539090/portfolio">
-  <img src="https://img.shields.io/badge/VIEW%20DETAILED%20PORTFOLIO-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/lucy539090/portfolio">
+    <img
+      src="https://img.shields.io/badge/VIEW%20DETAILED%20PORTFOLIO-1E3A8A?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Detailed Portfolio"
+    />
+  </a>
 </div>
+
+<hr/>
 
 ---
 
 ## 🌱 About Me
 
-- 🎯 **Business Question Structuring**  
+- **Business Question Structuring**  
   Translating broad or ambiguous business concerns into measurable analytical questions and KPIs.
 
-- 📊 **User Behavior Analysis**  
+- **User Behavior Analysis**  
   Identifying conversion, retention, and UX bottlenecks through funnel, cohort, and behavioral analysis.
 
-- 🔍 **Data Validation**  
+- **Data Validation**  
   Checking data definitions, missing values, merge relationships, and analytical assumptions before drawing conclusions.
 
-- 🧪 **Evidence-Based Analysis**  
+- **Evidence-Based Analysis**  
   Applying statistical inference and machine learning while distinguishing association, prediction, and causality.
 
-- 📈 **Visualization & Storytelling**  
+- **Visualization & Storytelling**  
   Communicating complex findings through dashboards, visualizations, and structured analytical narratives.
 
-- 🚀 **Actionable Recommendations**  
+- **Actionable Recommendations**  
   Connecting analytical findings to practical experiments, operational improvements, and business strategies.
 
 ---
