@@ -35,7 +35,7 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 <table>
 <tr>
 <td width="33%" valign="top">
-<h3 align="center">📞 Voice Phishing<br>Pattern Analysis</h3>
+<h3 align="center">Voice Phishing<br>Pattern Analysis</h3>
 <p align="center"><img src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square" alt="Completed"></p>
 <p>Analyzed unstructured text data to identify frequently appearing keywords and patterns in voice phishing-related content.</p>
 <p><b>Key Analysis</b><br>Web Crawling · Korean Text Preprocessing · Keyword Analysis · Sentiment Analysis</p>
@@ -44,7 +44,7 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 <p align="center"><a href="https://github.com/lucy539090/voicefishing_analysis"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="View Voice Phishing Repository"></a></p>
 </td>
 <td width="33%" valign="top">
-<h3 align="center">🛣️ Pothole Risk<br>Factor Analysis</h3>
+<h3 align="center">Pothole Risk<br>Factor Analysis</h3>
 <p align="center"><img src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square" alt="Completed"></p>
 <p>Analyzed key factors associated with pothole occurrence using large-scale spatio-temporal and public data.</p>
 <p><b>Key Analysis</b><br>Data Integration · Feature Engineering · Tree-Based Modeling · Feature Importance</p>
@@ -53,7 +53,7 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 <p align="center"><a href="https://github.com/Moon-ye-rin/Capstone_Design_2"><img src="https://img.shields.io/badge/VIEW%20TEAM%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="View Pothole Team Repository"></a></p>
 </td>
 <td width="33%" valign="top">
-<h3 align="center">🎮 Steam Review<br>Analysis</h3>
+<h3 align="center">Steam Review<br>Analysis</h3>
 <p align="center"><img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square" alt="In Progress"></p>
 <p>Analyzing Steam user reviews to understand how player experiences and concerns differ across indie games and language groups.</p>
 <p><b>Planned Analysis</b><br>Text Preprocessing · Sentiment Analysis · Keyword Analysis · Multilingual NLP</p>
