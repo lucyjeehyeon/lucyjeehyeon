@@ -60,17 +60,6 @@ Beyond simple data extraction, I aim to design and communicate transparent analy
     </td>
   </tr>
   <tr>
-    <td><b>Product Analytics</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Amplitude-1F61FF?style=flat-square&logo=amplitude&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Funnel%20Analysis-333333?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Cohort%20Analysis-555555?style=flat-square"/>
-      <img src="https://img.shields.io/badge/RFM%20Analysis-777777?style=flat-square"/>
-      <img src="https://img.shields.io/badge/User%20Log%20Design-999999?style=flat-square"/>
-      <img src="https://img.shields.io/badge/KPI%20Analysis-B0B0B0?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
     <td><b>Machine Learning</b></td>
     <td>
       <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
