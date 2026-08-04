@@ -109,6 +109,5 @@ Beyond simple data extraction, I aim to design and communicate transparent analy
 
 ## 📫 Contact
 
-- **Blog:** [lucy2652.tistory.com](https://lucy2652.tistory.com/)
 - **LinkedIn:** [In/jeehyeon-lee](https://www.linkedin.com/in/jeehyeon-lee-6100a9223/)
 - **Email:** lucy567888@gmail.com
