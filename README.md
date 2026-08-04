@@ -19,13 +19,6 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 
 <br/>
 
-<a href="https://github.com/lucy539090/portfolio">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/>
-<br/>
-
 </div>
 
 ---
@@ -164,12 +157,12 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 
 Currently strengthening my analytical foundation and expanding the range of tools I can apply to business problems.
 
-- 🗄️ **SQL:** Complex joins, subqueries, CTEs, window functions, and efficient analytical queries
-- 🤖 **Machine Learning:** Model selection, feature engineering, evaluation metrics, and model interpretation
-- 📊 **BI & Dashboarding:** Tableau dashboard design, KPI visualization, and interactive reporting
-- 🧪 **Statistics:** Hypothesis testing, confidence intervals, experiment design, and careful causal interpretation
-- 🧱 **Data Preparation:** Reproducible preprocessing, data validation, and analysis-ready dataset design
-- 📝 **Communication:** Converting technical analysis into clear reports, presentations, and business recommendations
+- **SQL:** Complex joins, subqueries, CTEs, window functions, and efficient analytical queries
+- **Machine Learning:** Model selection, feature engineering, evaluation metrics, and model interpretation
+- **BI & Dashboarding:** Tableau dashboard design, KPI visualization, and interactive reporting
+- **Statistics:** Hypothesis testing, confidence intervals, experiment design, and careful causal interpretation
+- **Data Preparation:** Reproducible preprocessing, data validation, and analysis-ready dataset design
+- **Communication:** Converting technical analysis into clear reports, presentations, and business recommendations
 
 ---
 
