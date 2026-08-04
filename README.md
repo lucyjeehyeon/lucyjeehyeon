@@ -101,10 +101,6 @@ Beyond simple data extraction, I aim to design and communicate transparent analy
 
 ## 📚 Focus & Learning
 
-- **Statistical Analysis:** Applying A/B test design, hypothesis testing (p-value), and CLT to real-world data.
-- **Business Impact:** Establishing data-driven decision-making processes through **Guardrail Metrics**.
-- **Actionable Insights:** Building a portfolio where analysis results lead directly to service improvements (Action Items).
-
 ---
 
 ## 📫 Contact
