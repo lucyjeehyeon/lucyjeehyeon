@@ -32,7 +32,9 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1E3A8A&height=8" width="100%" height="7">
 <h3 align="center">Pothole Risk<br>Factor Analysis</h3>
 <p>Analyzed key factors associated with pothole occurrence using large-scale spatio-temporal and public data.</p>
 <p><b>Key Analysis</b><br>Data Integration · Feature Engineering · Tree-Based Modeling · Feature Importance</p>
@@ -40,15 +42,19 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 <p><b>Tools</b><br>Python · XGBoost · LightGBM · CatBoost · Spatial Data</p>
 <p align="center"><a href="https://github.com/Moon-ye-rin/Capstone_Design_2"><img src="https://img.shields.io/badge/VIEW%20TEAM%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="View Pothole Team Repository"></a></p>
 </td>
+
 <td width="33%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5&height=8" width="100%" height="7">
 <h3 align="center">Voice Phishing<br>Pattern Analysis</h3>
 <p>Analyzed unstructured text data to identify frequently appearing keywords and patterns in voice phishing-related content.</p>
 <p><b>Key Analysis</b><br>Web Crawling · Korean Text Preprocessing · Keyword Analysis · Sentiment Analysis</p>
 <p><b>Outcome</b><br>Transformed noisy YouTube and script data into analyzable datasets and visualized recurring voice phishing-related terms.</p>
 <p><b>Tools</b><br>Python · Pandas · KoNLPy · WordCloud · VaderSentiment</p>
-<p align="center"><a href="https://github.com/lucyjeehyeon/voicefishing_analysis"><img src="https://img.shields.io/badge/VIEW%20TEAM%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="View Voice Phishing Repository"></a></p>
+<p align="center"><a href="https://github.com/lucy539090/voicefishing_analysis"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="View Voice Phishing Repository"></a></p>
 </td>
+
 <td width="33%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=8" width="100%" height="7">
 <h3 align="center">Steam Review<br>Analysis</h3>
 <p>Analyzing Steam user reviews to understand how player experiences and concerns differ across indie games and language groups.</p>
 <p><b>Planned Analysis</b><br>Text Preprocessing · Sentiment Analysis · Keyword Analysis · Multilingual NLP</p>
@@ -56,6 +62,7 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 <p><b>Tools</b><br>Python · NLP · Machine Learning · Tableau · Data Visualization</p>
 <p align="center"><img src="https://img.shields.io/badge/PROJECT%20IN%20PROGRESS-F59E0B?style=flat-square" alt="Project In Progress"></p>
 </td>
+
 </tr>
 </table>
 
