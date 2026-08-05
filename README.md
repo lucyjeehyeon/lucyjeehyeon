@@ -48,7 +48,7 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 <p><b>Key Analysis</b><br>Web Crawling · Korean Text Preprocessing · Keyword Analysis · Sentiment Analysis</p>
 <p><b>Outcome</b><br>Transformed noisy YouTube and script data into analyzable datasets and visualized recurring voice phishing-related terms.</p>
 <p><b>Tools</b><br>Python · Pandas · KoNLPy · WordCloud · VaderSentiment</p>
-<p align="center"><a href="https://github.com/lucy539090/voicefishing_analysis"><img src="https://img.shields.io/badge/VIEW%20TEAM%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="View Voice Phishing Repository"></a></p>
+<p align="center"><a href="https://github.com/lucyjeehyeon/voicefishing_analysis"><img src="https://img.shields.io/badge/VIEW%20TEAM%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="View Voice Phishing Repository"></a></p>
 </td>
 <td width="33%" valign="top">
 <h3 align="center">Steam Review<br>Analysis</h3>
@@ -65,7 +65,7 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 <br>
 
 <div align="center">
-<a href="https://github.com/lucy539090/portfolio">
+<a href="https://github.com/lucyjeehyeon/portfolio">
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Projects">
 </a>
 </div>
@@ -173,4 +173,4 @@ Currently strengthening my analytical foundation and expanding the range of tool
 
 - **LinkedIn:** [linkedin.com/in/jeehyeon-lee](https://www.linkedin.com/in/jeehyeon-lee-6100a9223/)
 - **Email:** [lucy567888@gmail.com](mailto:lucy567888@gmail.com)
-- **Portfolio:** [github.com/lucy539090/portfolio](https://github.com/lucy539090/portfolio)
+- **Portfolio:** [github.com/lucy539090/portfolio](https://github.com/lucyjeehyeon/portfolio)
