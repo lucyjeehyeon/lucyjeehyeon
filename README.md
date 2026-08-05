@@ -173,4 +173,4 @@ Currently strengthening my analytical foundation and expanding the range of tool
 
 - **LinkedIn:** [linkedin.com/in/jeehyeon-lee](https://www.linkedin.com/in/jeehyeon-lee-6100a9223/)
 - **Email:** [lucy567888@gmail.com](mailto:lucy567888@gmail.com)
-- **Portfolio:** [github.com/lucy539090/portfolio](https://github.com/lucyjeehyeon/portfolio)
+- **Portfolio:** [github.com/lucyjeehyeon/portfolio](https://github.com/lucyjeehyeon/portfolio)
