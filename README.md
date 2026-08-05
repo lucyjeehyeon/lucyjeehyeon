@@ -34,7 +34,6 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 <tr>
 <td width="33%" valign="top">
 <h3 align="center">Pothole Risk<br>Factor Analysis</h3>
-<p align="center"><img src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square" alt="Completed"></p>
 <p>Analyzed key factors associated with pothole occurrence using large-scale spatio-temporal and public data.</p>
 <p><b>Key Analysis</b><br>Data Integration · Feature Engineering · Tree-Based Modeling · Feature Importance</p>
 <p><b>Outcome</b><br>Identified traffic volume and weather-related variables as meaningful risk factors for preventive road maintenance.</p>
@@ -43,7 +42,6 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 </td>
 <td width="33%" valign="top">
 <h3 align="center">Voice Phishing<br>Pattern Analysis</h3>
-<p align="center"><img src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square" alt="Completed"></p>
 <p>Analyzed unstructured text data to identify frequently appearing keywords and patterns in voice phishing-related content.</p>
 <p><b>Key Analysis</b><br>Web Crawling · Korean Text Preprocessing · Keyword Analysis · Sentiment Analysis</p>
 <p><b>Outcome</b><br>Transformed noisy YouTube and script data into analyzable datasets and visualized recurring voice phishing-related terms.</p>
@@ -52,7 +50,6 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 </td>
 <td width="33%" valign="top">
 <h3 align="center">Steam Review<br>Analysis</h3>
-<p align="center"><img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square" alt="In Progress"></p>
 <p>Analyzing Steam user reviews to understand how player experiences and concerns differ across indie games and language groups.</p>
 <p><b>Planned Analysis</b><br>Text Preprocessing · Sentiment Analysis · Keyword Analysis · Multilingual NLP</p>
 <p><b>Goal</b><br>Translate user reviews into product improvement priorities and compare user experiences across games and languages.</p>
