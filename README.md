@@ -40,7 +40,7 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 <p><b>Key Analysis</b><br>Data Integration · Feature Engineering · Tree-Based Modeling · Feature Importance</p>
 <p><b>Outcome</b><br>Identified traffic volume and weather-related variables as meaningful risk factors for preventive road maintenance.</p>
 <p><b>Tools</b><br>Python · XGBoost · LightGBM · CatBoost · Spatial Data</p>
-<p align="center"><a href="https://github.com/Moon-ye-rin/Capstone_Design_2"><img src="https://img.shields.io/badge/VIEW%20TEAM%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="View Pothole Team Repository"></a></p>
+<p align="center"><a href="https://github.com/lucyjeehyeon/pothole-risk-factor-analysis"><img src="https://img.shields.io/badge/VIEW%20TEAM%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="View Pothole Team Repository"></a></p>
 </td>
 
 <td width="33%" valign="top">
