@@ -160,19 +160,6 @@ I enjoy discovering patterns hidden behind numbers and designing transparent ana
 
 ---
 
-## 📚 Focus & Learning
-
-Currently strengthening my analytical foundation and expanding the range of tools I can apply to business problems.
-
-- **SQL:** Complex joins, subqueries, CTEs, window functions, and efficient analytical queries
-- **Machine Learning:** Model selection, feature engineering, evaluation metrics, and model interpretation
-- **BI & Dashboarding:** Tableau dashboard design, KPI visualization, and interactive reporting
-- **Statistics:** Hypothesis testing, confidence intervals, experiment design, and careful causal interpretation
-- **Data Preparation:** Reproducible preprocessing, data validation, and analysis-ready dataset design
-- **Communication:** Converting technical analysis into clear reports, presentations, and business recommendations
-
----
-
 ## 📫 Contact
 
 - **LinkedIn:** [linkedin.com/in/jeehyeon-lee](https://www.linkedin.com/in/jeehyeon-lee-6100a9223/)
