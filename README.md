@@ -48,19 +48,64 @@ My projects connect conversion analysis, product improvement, and machine learni
 </td></tr>
 </table>
 
-## Core Tools
+## 🛠 Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
-</p>
-
-| Area | Tools used in projects |
-|---|---|
-| Analysis & statistics | pandas, NumPy, statsmodels, Excel |
-| Machine learning | scikit-learn, LightGBM, XGBoost, CatBoost |
-| Visualization | Tableau, Matplotlib, Seaborn, Plotly |
+<table>
+<tr>
+<td width="180"><b>Programming</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+</td>
+</tr>
+<tr>
+<td><b>Analysis &amp; Statistics</b></td>
+<td>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Statsmodels-4051B5?style=flat-square" alt="statsmodels">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+</td>
+</tr>
+<tr>
+<td><b>Machine Learning</b></td>
+<td>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" alt="XGBoost">
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square" alt="LightGBM">
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square" alt="CatBoost">
+</td>
+</tr>
+<tr>
+<td><b>Visualization</b></td>
+<td>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat-square" alt="Seaborn">
+<img src="https://img.shields.io/badge/Orange3-FF7F00?style=flat-square" alt="Orange3">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
+</td>
+</tr>
+<tr>
+<td><b>Environment</b></td>
+<td>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</td>
+</tr>
+<tr>
+<td><b>Collaboration</b></td>
+<td>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+</td>
+</tr>
+</table>
 
 ## Contact
 
