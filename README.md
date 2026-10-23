@@ -13,40 +13,17 @@ My projects connect conversion analysis, product improvement, and machine learni
 
 ## Featured Projects
 
-<table>
-<tr><td>
-<h3>01 · Viral to Value — Social App Analysis &amp; Redesign</h3>
-<p><b>Problem</b> · How does question completion connect to continued participation in a school-based social app?</p>
-<p><b>Finding</b> · Only <b>2.12% of question-completion visits</b> included a subsequent question start within the same visit. The findings informed a service redesign and an interactive prototype.</p>
-<p>
-<a href="https://github.com/codeit-team7/team7"><img src="https://img.shields.io/badge/REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="Viral to Value team repository"></a>
-<a href="https://lucyjeehyeon.github.io/ping-demo/"><img src="https://img.shields.io/badge/LIVE%20DEMO-1E3A8A?style=flat-square" alt="Viral to Value interactive demo"></a>
-</p>
-</td></tr>
-</table>
+- **Viral to Value — Social App Analysis & Redesign**<br>
+  **2.12%** of question-completion visits included a same-visit next-question start, informing a service redesign and prototype.<br>
+  [Repository](https://github.com/codeit-team7/team7) · [Live demo](https://lucyjeehyeon.github.io/ping-demo/)
 
-<table>
-<tr><td>
-<h3>02 · Shared Office — Free-Trial Conversion Analysis</h3>
-<p><b>Problem</b> · Why did paid conversion decline among shared-office free-trial users?</p>
-<p><b>Finding</b> · Among single-branch users, repeat visitors had an <b>8.38 percentage-point higher payment rate</b> than one-day visitors, supporting a return-visit strategy.</p>
-<p>
-<a href="https://github.com/lucyjeehyeon/shared-office-trial-conversion-analysis"><img src="https://img.shields.io/badge/REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="Shared-office conversion repository"></a>
-</p>
-</td></tr>
-</table>
+- **Shared Office — Free-Trial Conversion Analysis**<br>
+  Among single-branch users, repeat-date visitors had an **8.38 pp higher observed payment rate** than one-day visitors.<br>
+  [Repository](https://github.com/lucyjeehyeon/shared-office-trial-conversion-analysis)
 
-<table>
-<tr><td>
-<h3>03 · Pothole Risk Factor Analysis — Conference Paper</h3>
-<p><b>Problem</b> · Which traffic, weather, and road-related factors are associated with pothole occurrence in Seoul?</p>
-<p><b>Finding</b> · Tree-based modeling identified traffic and weather variables as important predictors. The research was <b>published in the proceedings of the 2025 KICS Winter Conference</b>.</p>
-<p>
-<a href="https://github.com/lucyjeehyeon/pothole-risk-factor-analysis"><img src="https://img.shields.io/badge/REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="Pothole analysis team repository"></a>
-<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12132267"><img src="https://img.shields.io/badge/CONFERENCE%20PAPER-0F766E?style=flat-square" alt="Pothole analysis conference paper on DBpia"></a>
-</p>
-</td></tr>
-</table>
+- **Pothole Risk Factor Analysis — Conference Paper**<br>
+  Tree-based modeling of pothole-related factors; published in the **2025 KICS Winter Conference proceedings**.<br>
+  [Repository](https://github.com/lucyjeehyeon/pothole-risk-factor-analysis) · [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12132267)
 
 ## 🛠 Tech Stack
 
@@ -109,6 +86,7 @@ My projects connect conversion analysis, product improvement, and machine learni
 
 ## Contact
 
-- **LinkedIn:** [www.linkedin.com/in/lucyjeehyeon](www.linkedin.com/in/lucyjeehyeon)
+- **LinkedIn:** [www.linkedin.com/in/lucyjeehyeon](https://www.linkedin.com/in/lucyjeehyeon/)
 - **Email:** lucy567888@gmail.com
 - **Portfolio:** [https://github.com/lucyjeehyeon/portfolio](https://github.com/lucyjeehyeon/portfolio)
+- **Portfolio website:** [lucyjeehyeon.github.io](https://lucyjeehyeon.github.io/)
