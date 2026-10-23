@@ -109,6 +109,6 @@ My projects connect conversion analysis, product improvement, and machine learni
 
 ## Contact
 
-- **LinkedIn:** [https://www.linkedin.com/in/jeehyeon-lee-6100a9223/](https://www.linkedin.com/in/jeehyeon-lee-6100a9223/)
+- **LinkedIn:** [www.linkedin.com/in/lucyjeehyeon](www.linkedin.com/in/lucyjeehyeon)
 - **Email:** lucy567888@gmail.com
 - **Portfolio:** [https://github.com/lucyjeehyeon/portfolio](https://github.com/lucyjeehyeon/portfolio)
